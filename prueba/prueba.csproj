@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FolderJavier\HolaMundo.txt" />
+    <Content Include="FolderJavier\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
