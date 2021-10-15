@@ -36,8 +36,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="FolderJavier\HolaMundo.txt" />
     <Content Include="FolderJavier\TextFile1.txt" />
+=======
+    <Content Include="FolderRaul\Archivoprueba.txt" />
+    <Content Include="FolderRaul\HelloWorld.txt" />
+>>>>>>> Raul02
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
